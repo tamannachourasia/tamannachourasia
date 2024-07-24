@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tamannachourasia
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking for Job in IT sector
+- 💞️ I’m looking for Job
 - 📫 How to reach me ...
 
 <!---
